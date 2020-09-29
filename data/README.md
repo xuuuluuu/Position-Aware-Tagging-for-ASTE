@@ -4,7 +4,7 @@ The data has the following format:
 
 > sentence####[(target position, opinion position, sentiment)]
 
-If their are multiple triplets in the same sentence:
+If there are multiple triplets in the same sentence:
 
 > sentence####[(target position, opinion position, sentiment), ..., (target position, opinion position, sentiment)]
 
