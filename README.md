@@ -33,12 +33,12 @@ Then,
 ```
 python jet_o.py  
 ```
-Change line 27 to True to runs on 2014 laptop dataset with provided hyper-parameters (M=2) with BERT.
+Change line 27 in the current file to True to runs on 2014 laptop dataset with provided hyper-parameters (M=2) with BERT.
 Change line 20-27 for different datasets.
 ```
 python jet_t.py  
 ```
-Change line 27 to True to runs on 2015 reataurant dataset with provided hyper-parameters (M=2) with BERT.
+Change line 27 in the current file to True to runs on 2015 reataurant dataset with provided hyper-parameters (M=2) with BERT.
 Change line 20-27 for different datasets.
 
 # Task Lists
