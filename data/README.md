@@ -1,5 +1,5 @@
 The files in the **preprocessed-triplet_data** folder are the raw data, please treat these files as original data.
-The data is originally released in this site[GitHub Pages](https://github.com/xuuuluuu/SemEval-Triplet-data).
+The data is originally released in this [site](https://github.com/xuuuluuu/SemEval-Triplet-data).
 
 The data has the following format: 
 
