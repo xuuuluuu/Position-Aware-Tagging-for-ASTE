@@ -4,7 +4,9 @@
 
 # Requirement
 Python 3.7.3  
+
 Transformers
+
 Bert-as-service
 
 # Running with GloVe
@@ -40,7 +42,7 @@ Change line 27 to True to runs on 2015 reataurant dataset with provided hyper-pa
 Change line 20-27 for different datasets.
 
 # Task Lists
--[] The current framwork only support BATCH_SIZE=1, more work need to be done to support batch calculation.
+- [ ] The current framwork only support BATCH_SIZE=1, more work need to be done to support batch calculation.
 
 # Related Repo
 The code are created based on the [StatNLP framework](https://github.com/sutd-statnlp/statnlp-neural).
