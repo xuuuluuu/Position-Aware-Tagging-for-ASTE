@@ -1,4 +1,4 @@
-The files in the **preprocessed-triplet_data** folder is the raw data, please treat these files as original data.
+The files in the **preprocessed-triplet_data** folder are the raw data, please treat these files as original data.
 
 The data has the following format: 
 
