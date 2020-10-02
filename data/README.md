@@ -1,4 +1,4 @@
-The files in the **preprocessed-triplet_data** folder are the raw data, please treat these files as original data, which is originally released in this [site](https://github.com/xuuuluuu/SemEval-Triplet-data).
+The files in the **ASTE-Data-V2** folder are the updated data, which is originally released in this [site](https://github.com/xuuuluuu/SemEval-Triplet-data).
 
 The data has the following format: 
 
