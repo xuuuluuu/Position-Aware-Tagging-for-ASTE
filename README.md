@@ -1,6 +1,6 @@
 # Position-Aware-Tagging-for-ASTE
 
-[EMNLP 2020] [Position-Aware Tagging for Aspect Sentiment Triplet Extraction (In EMNLP 2020)](https://github.com/xuuuluuu/Position-Aware-Tagging-for-ASTE)
+[EMNLP 2020] [Position-Aware Tagging for Aspect Sentiment Triplet Extraction (In EMNLP 2020)](https://arxiv.org/abs/2010.02609)
 
 # Requirement
 Python 3.7.3  
