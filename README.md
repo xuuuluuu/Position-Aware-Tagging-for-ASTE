@@ -9,13 +9,13 @@ For Example:
 
 Given the sentence:
 
-The screen is very large and crystal clear with amazing colors and resolution .
+**The screen is very large and crystal clear with amazing colors and resolution .**
 
 The objective of the Aspect Sentiment Triplet Extraction (ASTE) task is to predict the triplets:
 
-[('screen', 'large', 'Positive'), ('screen', 'clear', 'Positive'), ('colors', 'amazing', 'Positive'), ('resolution', 'amazing', 'Positive')]
+**[('screen', 'large', 'Positive'), ('screen', 'clear', 'Positive'), ('colors', 'amazing', 'Positive'), ('resolution', 'amazing', 'Positive')]**
  
- where a triplet consist of (target, opinion, sentiment).
+where a triplet consist of (target, opinion, sentiment).
 
 # Requirement
 Python 3.7.3  
