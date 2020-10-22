@@ -15,7 +15,7 @@ The objective of the Aspect Sentiment Triplet Extraction (ASTE) task is to predi
 
 **[('screen', 'large', 'Positive'), ('screen', 'clear', 'Positive'), ('colors', 'amazing', 'Positive'), ('resolution', 'amazing', 'Positive')]**
  
-where a triplet consist of (target, opinion, sentiment).
+where a triplet consists of (target, opinion, sentiment).
 
 # Requirement
 Python 3.7.3  
