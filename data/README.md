@@ -1,3 +1,7 @@
+The files in the **triplet_data** folder are pre-processed from **ASTE-Data-V2** folder to fulfill the requirements of our model.
+
+
+
 The files in the **ASTE-Data-V2** folder are the updated data, which is originally released in this [site](https://github.com/xuuuluuu/SemEval-Triplet-data).
 
 The data has the following format: 
