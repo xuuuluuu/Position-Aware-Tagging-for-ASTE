@@ -3,7 +3,7 @@
 [EMNLP 2020] [Position-Aware Tagging for Aspect Sentiment Triplet Extraction (In EMNLP 2020)](https://arxiv.org/abs/2010.02609)
 
 # Task Description
-Aspect Sentiment Triplet Extraction (ASTE) is the task of extracting the triplets of target entities, their associated sentiment, and opinion spans explaining the reason for the sentiment. This task is firstly proposed by (Peng et al., 2020) in the paper publised in AAAI 2020, [Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (In AAAI 2020)](https://arxiv.org/pdf/1911.01616.pdf)
+Aspect Sentiment Triplet Extraction (ASTE) is the task of extracting the triplets of target entities, their associated sentiment, and opinion spans explaining the reason for the sentiment. This task is **firstly** proposed by (Peng et al., 2020) in the paper publised in AAAI 2020, [Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (In AAAI 2020)](https://arxiv.org/pdf/1911.01616.pdf)
 
 For Example:
 
