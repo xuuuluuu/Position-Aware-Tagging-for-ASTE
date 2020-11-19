@@ -18,6 +18,8 @@ The objective of the Aspect Sentiment Triplet Extraction (ASTE) task is to predi
 where a triplet consists of (target, opinion, sentiment).
 
 # Requirement
+Pytorch 1.4
+
 Python 3.7.3  
 
 Transformers
