@@ -133,7 +133,7 @@ class TriextractNeuralBuilder(NeuralBuilder):
 					target_boundary = (pos - end, pos - start)
 					pos_target = 100 + end
 
-				pos_score = span_score[target_boundary][0]
+				pos_score = offset_score[pos_target][0]
 				base_score = base_score + span_score[target_boundary][0]  + pos_score + self.linear_polar(torch.cat((seg_embs[target_boundary], lstm_out[pos][lstm_hidden_size:]), 0))[polarity]
 				# Ablation
 				# base_score = base_score  + pos_score + self.linear_polar(torch.cat((seg_embs[target_boundary], lstm_out[pos][lstm_hidden_size:]), 0))[polarity]
