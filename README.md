@@ -1,3 +1,5 @@
+[UPDATE] Please also check our recent paper [Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction (In ACL 2021)](https://aclanthology.org/2021.acl-long.367.pdf)
+
 # Position-Aware-Tagging-for-ASTE
 
 [EMNLP 2020] [Position-Aware Tagging for Aspect Sentiment Triplet Extraction (In EMNLP 2020)](https://arxiv.org/abs/2010.02609)
