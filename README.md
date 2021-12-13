@@ -26,10 +26,19 @@ conda create -n JET python=3.7 anaconda
 conda install pytorch==1.4.0 torchvision==0.5.0 cudatoolkit=10.1 -c pytorch
 
 
+Python 3.7.3  
 
 Pytorch 1.4
 
-Python 3.7.3  
+termcolor
+
+networkx=2.6.3
+
+matplotlib
+
+PYEVALB
+
+sentencepiece
 
 Transformers
 
